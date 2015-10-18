@@ -83,6 +83,7 @@ textarea {
 
 .main-sidebar,
 .main-content-section {
+    color: #898989;
     height: 100%;
     float: left;
     box-sizing: border-box;
@@ -103,7 +104,6 @@ textarea {
 }
 
 .main-content-section {
-    color: #333;
     width: 80%;
     overflow-x: hidden;
     overflow-y: scroll;
